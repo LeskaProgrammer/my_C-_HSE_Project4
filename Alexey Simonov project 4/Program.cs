@@ -46,7 +46,7 @@ class Program
             Console.WriteLine("6. Показать рекомендации"); //
             Console.WriteLine("7. Импорт из CSV"); //
             Console.WriteLine("8. Экспорт в JSON/CSV"); //
-            Console.WriteLine("9. Изменить путь к файлу"); //
+            Console.WriteLine("9. Изменить путь к файлу (JSON или TXT)"); //
             Console.WriteLine("10. Выход"); //
             Console.Write("Выберите действие: ");
 
@@ -65,6 +65,19 @@ class Program
                     AddBook();
                     break; // Добавить книгу вручную (реализуй сам)
                 case "3":
+                    string? isbn = "";
+                    while (!IsValidISBN(isbn))
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Введите пустую строку для выхода");
+                        Console.Write("Введите корректный IBSN: ");
+                        isbn = Console.ReadLine();
+                        if (isbn == "") break;
+                    }
+                    
+                    if (IsValidISBN(isbn)) library.AddBookByUniqueCode(isbn);
+                    
+                    
                     break; // Добавить по ISBN (OpenLibrary, B-side)
                 case "4":
                     EditBook();
