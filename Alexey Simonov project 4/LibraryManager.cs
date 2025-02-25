@@ -6,12 +6,14 @@ using System.Collections;
 public class LibraryManager : IEnumerable<Book>
 {
     private List<Book> books = new List<Book>();
-    private string filePath;
+    private string _filePath;
+    
+    public string FilePath { get; private set; }
     public delegate void BooksDisplayHandler(List<Book> books);
     
     public LibraryManager(string path)
     {
-        filePath = path;
+        _filePath = path;
         LoadBooks();
     }
     
@@ -34,7 +36,7 @@ public class LibraryManager : IEnumerable<Book>
 
     private void LoadBooks()
     {
-        if (!File.Exists(filePath))
+        if (!File.Exists(_filePath))
         {
             Console.WriteLine("Файл не найден, создан новый.");
             return;
@@ -42,7 +44,7 @@ public class LibraryManager : IEnumerable<Book>
 
         try
         {
-            string json = File.ReadAllText(filePath);
+            string json = File.ReadAllText(_filePath);
             var options = new JsonSerializerOptions
             {
                 AllowTrailingCommas = true,
@@ -79,7 +81,7 @@ public class LibraryManager : IEnumerable<Book>
         try
         {
             string json = JsonSerializer.Serialize(books, new JsonSerializerOptions { WriteIndented = true });
-            File.WriteAllText(filePath, json);
+            File.WriteAllText(_filePath, json);
         }
         catch (Exception ex)
         {
