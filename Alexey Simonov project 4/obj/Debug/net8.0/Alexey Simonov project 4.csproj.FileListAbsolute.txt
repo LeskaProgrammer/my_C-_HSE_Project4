@@ -12,3 +12,4 @@ C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\ob
 C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.pdb
 C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.genruntimeconfig.cache
 C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\ref\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.sourcelink.json

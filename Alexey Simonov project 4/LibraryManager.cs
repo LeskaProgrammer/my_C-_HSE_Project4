@@ -19,6 +19,11 @@ public class LibraryManager : IEnumerable<Book>
     {
         displayMethod?.Invoke(books);
     }
+    
+    public void DisplayPartBooks(List<Book> booksToDisplay, BooksDisplayHandler displayMethod)
+    {
+        displayMethod?.Invoke(booksToDisplay);
+    }
 
     // Индексатор для доступа к книгам по индексу
     public Book this[int index]
