@@ -1,0 +1,443 @@
+﻿[
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopia, Political Fiction",
+    "Year": 1949,
+    "ISBN": "978-0451524935",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "Genre": "Science Fiction, Fiction",
+    "Year": 1965,
+    "ISBN": "0441172717",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Harry Potter and the Philosopher\u0027s Stone",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy, Fiction",
+    "Year": 1997,
+    "ISBN": "978-0747532699",
+    "Rating": 10,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy, Adventure",
+    "Year": 1954,
+    "ISBN": "978-0618640157",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "Genre": "Dystopia, Science Fiction",
+    "Year": 1932,
+    "ISBN": "978-0060850524",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction, Drama",
+    "Year": 1960,
+    "ISBN": "978-0446310789",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy, Children\u0027s Literature",
+    "Year": 1937,
+    "ISBN": "978-0547928227",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "Genre": "Dystopia, Science Fiction",
+    "Year": 1953,
+    "ISBN": "978-1451673319",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Animal Farm",
+    "Author": "George Orwell",
+    "Genre": "Political Satire, Fiction",
+    "Year": 1945,
+    "ISBN": "978-0451526342",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Genre": "Fiction, Coming-of-Age",
+    "Year": 1951,
+    "ISBN": "978-0316769488",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Fiction, Classic",
+    "Year": 1925,
+    "ISBN": "978-0743273565",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance, Classic",
+    "Year": 1813,
+    "ISBN": "978-0141439518",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Chronicles of Narnia",
+    "Author": "C.S. Lewis",
+    "Genre": "Fantasy, Children\u0027s Literature",
+    "Year": 1950,
+    "ISBN": "978-0066238500",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Neuromancer",
+    "Author": "William Gibson",
+    "Genre": "Cyberpunk, Science Fiction",
+    "Year": 1984,
+    "ISBN": "978-0441569595",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "Genre": "Horror, Fiction",
+    "Year": 1977,
+    "ISBN": "978-0307743657",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "It",
+    "Author": "Stephen King",
+    "Genre": "Horror, Fiction",
+    "Year": 1986,
+    "ISBN": "978-1501142970",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Genre": "Thriller, Mystery",
+    "Year": 2003,
+    "ISBN": "978-0307474278",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Genre": "Dystopia, Young Adult",
+    "Year": 2008,
+    "ISBN": "978-0439023528",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Twilight",
+    "Author": "Stephenie Meyer",
+    "Genre": "Romance, Fantasy",
+    "Year": 2005,
+    "ISBN": "978-0316015844",
+    "Rating": 6,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "Genre": "Fiction, Inspirational",
+    "Year": 1988,
+    "ISBN": "978-0062315007",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "not stated",
+    "Author": "not stated",
+    "Genre": "not stated",
+    "Year": -1,
+    "ISBN": "978-1234567890",
+    "Rating": -1,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Ender\u0027s Game",
+    "Author": "Orson Scott Card",
+    "Genre": "Science Fiction",
+    "Year": 1985,
+    "ISBN": "978-0812550702",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "A Song of Ice and Fire",
+    "Author": "George R.R. Martin",
+    "Genre": "Fantasy, Epic",
+    "Year": 1996,
+    "ISBN": "978-0553103540",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Name of the Wind",
+    "Author": "Patrick Rothfuss",
+    "Genre": "Fantasy",
+    "Year": 2007,
+    "ISBN": "978-0756404741",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Mistborn",
+    "Author": "Brandon Sanderson",
+    "Genre": "Fantasy, Fiction",
+    "Year": 2006,
+    "ISBN": "978-0765311788",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Wheel of Time",
+    "Author": "Robert Jordan",
+    "Genre": "Fantasy, Epic",
+    "Year": 1990,
+    "ISBN": "978-0312850098",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Martian",
+    "Author": "Andy Weir",
+    "Genre": "Science Fiction",
+    "Year": 2011,
+    "ISBN": "978-0553418026",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Ready Player One",
+    "Author": "Ernest Cline",
+    "Genre": "Science Fiction, Dystopia",
+    "Year": 2011,
+    "ISBN": "978-0307887443",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Hitchhiker\u0027s Guide to the Galaxy",
+    "Author": "Douglas Adams",
+    "Genre": "Science Fiction, Humor",
+    "Year": 1979,
+    "ISBN": "978-0345391803",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Jurassic Park",
+    "Author": "Michael Crichton",
+    "Genre": "Science Fiction, Thriller",
+    "Year": 1990,
+    "ISBN": "978-0345538987",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Road",
+    "Author": "Cormac McCarthy",
+    "Genre": "Post-Apocalyptic, Fiction",
+    "Year": 2006,
+    "ISBN": "978-0307387899",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Giver",
+    "Author": "Lois Lowry",
+    "Genre": "Dystopia, Young Adult",
+    "Year": 1993,
+    "ISBN": "978-0544336261",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Fault in Our Stars",
+    "Author": "John Green",
+    "Genre": "Young Adult, Romance",
+    "Year": 2012,
+    "ISBN": "978-0142424179",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Divergent",
+    "Author": "Veronica Roth",
+    "Genre": "Dystopia, Young Adult",
+    "Year": 2011,
+    "ISBN": "978-0062024039",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Perks of Being a Wallflower",
+    "Author": "Stephen Chbosky",
+    "Genre": "Young Adult, Fiction",
+    "Year": 1999,
+    "ISBN": "978-1471116148",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Maze Runner",
+    "Author": "James Dashner",
+    "Genre": "Dystopia, Young Adult",
+    "Year": 2009,
+    "ISBN": "978-0385737944",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "Genre": "Mystery, Thriller",
+    "Year": 2005,
+    "ISBN": "978-0307949486",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "Genre": "Thriller, Mystery",
+    "Year": 2012,
+    "ISBN": "978-0307588371",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Silent Patient",
+    "Author": "Alex Michaelides",
+    "Genre": "Thriller, Mystery",
+    "Year": 2019,
+    "ISBN": "978-1250301697",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Where the Crawdads Sing",
+    "Author": "Delia Owens",
+    "Genre": "Fiction, Mystery",
+    "Year": 2018,
+    "ISBN": "978-0735219090",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Night Circus",
+    "Author": "Erin Morgenstern",
+    "Genre": "Fantasy, Fiction",
+    "Year": 2011,
+    "ISBN": "978-0385534635",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Author": "George R.R. Martin",
+    "Genre": "Fantasy, Epic",
+    "Year": 1996,
+    "ISBN": "978-0553103540",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Shadow of the Wind",
+    "Author": "Carlos Ruiz Zaf\u00F3n",
+    "Genre": "Mystery, Fiction",
+    "Year": 2001,
+    "ISBN": "978-0143034902",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Book Thief",
+    "Author": "Markus Zusak",
+    "Genre": "Historical Fiction",
+    "Year": 2005,
+    "ISBN": "978-0375842207",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Ocean at the End of the Lane",
+    "Author": "Neil Gaiman",
+    "Genre": "Fantasy, Fiction",
+    "Year": 2013,
+    "ISBN": "978-0062255655",
+    "Rating": 8,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "not stated",
+    "Author": "Unknown Author",
+    "Genre": "not stated",
+    "Year": 2000,
+    "ISBN": "978-1111111111",
+    "Rating": -1,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Testaments",
+    "Author": "Margaret Atwood",
+    "Genre": "Dystopia, Fiction",
+    "Year": 2019,
+    "ISBN": "978-0385543781",
+    "Rating": 7,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Educated",
+    "Author": "Tara Westover",
+    "Genre": "Memoir, Non-Fiction",
+    "Year": 2018,
+    "ISBN": "978-0399590504",
+    "Rating": 9,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "Becoming",
+    "Author": "Michelle Obama",
+    "Genre": "Memoir, Non-Fiction",
+    "Year": 2018,
+    "ISBN": "978-1524763138",
+    "Rating": 8,
+    "CoverUrl": ""
+  }
+]
