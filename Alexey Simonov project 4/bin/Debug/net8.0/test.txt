@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Title": "rvrv",
+    "Author": "ervev",
+    "Genre": "__NOT_STATED__",
+    "Year": -1,
+    "ISBN": "__NOT_STATED__",
+    "Rating": -1,
+    "CoverUrl": ""
+  }
+]

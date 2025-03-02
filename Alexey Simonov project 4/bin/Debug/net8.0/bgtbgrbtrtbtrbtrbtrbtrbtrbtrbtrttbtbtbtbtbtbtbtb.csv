@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Title": "dcec",
+    "Author": "not stated",
+    "Genre": "not stated",
+    "Year": -1,
+    "ISBN": "not stated",
+    "Rating": -1,
+    "CoverUrl": ""
+  },
+  {
+    "Title": "The Testaments",
+    "Author": "not stated",
+    "Genre": "Science Fiction, young adult fiction, dystopian fiction",
+    "Year": 2019,
+    "ISBN": "9780385543781",
+    "Rating": 4,
+    "CoverUrl": "covers\\9780385543781.jpg"
+  },
+  {
+    "Title": "Animal Farm",
+    "Author": "not stated",
+    "Genre": "british and irish fiction (fictional works by one author), political satire, classic",
+    "Year": 1996,
+    "ISBN": "9780451526342",
+    "Rating": 4,
+    "CoverUrl": "covers\\9780451526342.jpg"
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J. D. Salinger",
+    "Genre": "fictional works, runaway teenagers, Fiction",
+    "Year": 1991,
+    "ISBN": "9780316769488",
+    "Rating": 5,
+    "CoverUrl": "covers\\9780316769488.jpg"
+  }
+]

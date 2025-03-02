@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "p38/oFP2BvA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\проект 4\\Alexey Simonov project 4\\Alexey Simonov project 4\\Alexey Simonov project 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\corgibytes.fork.spectre.console\\0.47.1-preview.0.29\\corgibytes.fork.spectre.console.0.47.1-preview.0.29.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\corgibytes.fork.spectre.console.imagesharp\\0.47.1-preview.0.29\\corgibytes.fork.spectre.console.imagesharp.0.47.1-preview.0.29.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\naps2.images\\1.1.4\\naps2.images.1.1.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\naps2.images.imagesharp\\1.1.4\\naps2.images.imagesharp.1.1.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\naps2.internals\\1.1.4\\naps2.internals.1.1.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netadmin.spectre.console\\0.45.1-preview.0.237\\netadmin.spectre.console.0.45.1-preview.0.237.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netadmin.spectre.console.imagesharp\\0.45.1-preview.0.237\\netadmin.spectre.console.imagesharp.0.45.1-preview.0.237.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.76\\spectre.console.0.49.2-preview.0.76.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\spectre.console.imagesharp\\0.49.2-preview.0.76\\spectre.console.imagesharp.0.49.2-preview.0.76.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}

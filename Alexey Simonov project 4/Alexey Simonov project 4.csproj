@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>Alexey_Simonov_project_4</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Corgibytes.Fork.Spectre.Console.ImageSharp" Version="0.47.1-preview.0.29" />
+      <PackageReference Include="NAPS2.Images.ImageSharp" Version="1.1.4" />
+      <PackageReference Include="NetAdmin.Spectre.Console.ImageSharp" Version="0.45.1-preview.0.237" />
+      <PackageReference Include="Spectre.Console" Version="0.49.2-preview.0.76" />
+      <PackageReference Include="Spectre.Console.ImageSharp" Version="0.49.2-preview.0.76" />
+    </ItemGroup>
+
+</Project>

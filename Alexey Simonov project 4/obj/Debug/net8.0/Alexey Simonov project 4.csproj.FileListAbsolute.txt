@@ -1,0 +1,74 @@
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.exe
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.deps.json
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.runtimeconfig.json
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\refint\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.genruntimeconfig.cache
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\ref\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.sourcelink.json
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey S.C1E76F7C.Up2Date
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.ImageSharp.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Internals.dll
+C:\Users\user\RiderProjects\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\zxing.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.exe
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.deps.json
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.runtimeconfig.json
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.ImageSharp.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Internals.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\zxing.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.sourcelink.json
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey S.C1E76F7C.Up2Date
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\refint\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.genruntimeconfig.cache
+C:\Users\user\RiderProjects\Херня\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\ref\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.exe
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.deps.json
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.runtimeconfig.json
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Images.ImageSharp.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\NAPS2.Internals.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\bin\Debug\net8.0\zxing.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.AssemblyInfo.cs
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey S.C1E76F7C.Up2Date
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\refint\Alexey Simonov project 4.dll
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.pdb
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\Alexey Simonov project 4.genruntimeconfig.cache
+C:\Users\user\RiderProjects\проект 4\Alexey Simonov project 4\Alexey Simonov project 4\obj\Debug\net8.0\ref\Alexey Simonov project 4.dll
